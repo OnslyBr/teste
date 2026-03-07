@@ -1,0 +1,256 @@
+id,slug,label,vacancy_count,latest_posted_at,is_active,created_at
+64a391de-914f-4b1e-be28-56f3aae27bba,tecnico-de-telecomunicacoes,Técnico de Telecomunicações,5,2026-03-06 21:52:27+00,true,2026-03-07 11:56:55.400607+00
+663926e6-bd6f-4e97-bbce-8b74e289f46c,tecnico-de-materiais,Técnico de Materiais,1,2026-03-06 21:53:06+00,true,2026-03-07 11:56:54.732882+00
+959dbe35-fee8-478b-8009-308123542897,gerente-de-operacoes-de-ti,Gerente de Operações de TI,2,2026-03-06 19:52:14+00,true,2026-03-07 11:58:35.636361+00
+151c9054-b3ac-4d74-8a78-decf95d965c2,analista-de-treinamento-e-desenvolvimento,Analista de Treinamento e Desenvolvimento,1,2026-03-06 20:36:17+00,true,2026-03-07 11:57:51.694642+00
+2f0f5390-12c0-4c6f-8a2a-c0958c1d9bba,analista-de-seguranca-cibernetica,Analista de Segurança Cibernética,1,2026-03-06 20:02:56+00,true,2026-03-07 11:58:12.97646+00
+ceccd71e-c315-4ea1-99b4-edabdb082002,consultor-de-educacao-financeira,Consultor de Educação Financeira,1,2026-03-06 20:04:18+00,true,2026-03-07 11:58:12.604872+00
+ce584b98-527d-4d02-a961-f55f2dcc2e4e,gerente-de-projetos-de-infraestrutura,Gerente de Projetos de Infraestrutura,1,2026-03-06 20:33:19+00,true,2026-03-07 11:57:52.360717+00
+4fd43060-f3f3-4f39-962b-c3e62aa9c909,analista-fiscal,Analista Fiscal,1,2026-03-06 19:48:27+00,true,2026-03-07 11:58:35.967131+00
+4d4343d4-755b-4f58-ab30-a5d87cc5dfb1,especialista-em-business-intelligence,Especialista em Business Intelligence,1,2026-03-06 20:59:05+00,true,2026-03-07 11:57:31.198804+00
+3c8c0da2-d33e-4a10-b428-fc58752c43cc,analista-cientifico,Analista Científico,1,2026-03-06 21:52:50+00,true,2026-03-07 11:56:55.185059+00
+13ac33f2-ae66-41da-b018-83c452e43a0d,analista-de-governanca-de-dados,Analista de Governança de Dados,1,2026-03-06 21:21:17+00,true,2026-03-07 11:57:14.744888+00
+76e87080-9d11-41ba-ab98-a83c882303b2,operador-de-caixa,Operador de Caixa,1,2026-03-06 22:09:56.789+00,true,2026-03-07 11:56:53.631006+00
+69d048a2-f015-4274-a9ab-c0a2db688383,desenvolvedor-fullstack-java,Desenvolvedor Fullstack Java,2,2026-03-06 20:33:21+00,true,2026-03-07 11:57:52.242581+00
+4e917c10-63b6-4691-bb48-3498d7bc577c,analista-de-dados,Analista de Dados,20,2026-03-06 21:52:55+00,true,2026-03-07 11:56:55.072305+00
+2b1774f4-a0e3-4969-a537-cf1f9ca83f19,analista-de-suporte-de-sistemas,Analista de Suporte de Sistemas,1,2026-03-06 21:53:18+00,true,2026-03-07 11:56:53.826545+00
+bff34ee1-38a0-42d5-b27b-5e978c98f6bd,tecnico-de-infraestrutura-de-ti,Técnico de Infraestrutura de TI,3,2026-03-06 21:53:15+00,true,2026-03-07 11:56:53.987506+00
+2ec35429-4a5f-4cb4-8a2d-f1b545054d42,analista-de-desenvolvimento-de-ti,Analista de Desenvolvimento de TI,1,2026-03-06 21:53:01+00,true,2026-03-07 11:56:54.970888+00
+5e9982e4-3f15-4561-8d12-17369fa7b044,engenheiro-de-produto,Engenheiro de Produto,3,2026-03-06 21:47:01+00,true,2026-03-07 11:57:13.981273+00
+eb4b14cc-4ed3-4986-94a8-b02278116f59,lider-de-suporte-de-ti,Líder de Suporte de TI,1,2026-03-06 21:52:40+00,true,2026-03-07 11:56:55.288414+00
+d420c4cb-8235-4220-890b-27245ee96a70,engenheiro-de-dados,Engenheiro de Dados,10,2026-03-06 20:59:45+00,true,2026-03-07 11:57:31.09031+00
+3a6924cd-e754-45d6-b17d-d89156cf54aa,supervisor-de-manutencao-de-rede,Supervisor de Manutenção de Rede,1,2026-03-06 21:52:24+00,true,2026-03-07 11:56:55.509342+00
+423326c7-0b48-4280-8c87-a9c2c4257b3c,pesquisador-de-desenvolvimento-farmaceutico,Pesquisador de Desenvolvimento Farmacêutico,1,2026-03-06 21:52:01+00,true,2026-03-07 11:57:13.825894+00
+3b993492-35ca-4799-9485-ab27671a9456,tecnico-de-suporte-em-ti,Técnico de Suporte em TI,4,2026-03-06 21:21:09+00,true,2026-03-07 11:57:15.035773+00
+d9c9cc00-fba4-4bbb-87ee-089636bb7e65,engenheiro-de-interiores-aeronauticos,Engenheiro de Interiores Aeronáuticos,1,2026-03-06 21:45:40+00,true,2026-03-07 11:57:14.179918+00
+03b98d58-79c6-4556-9032-9a92f8cae006,engenheiro-de-estruturas-aeronauticas,Engenheiro de Estruturas Aeronáuticas,1,2026-03-06 21:45:40+00,true,2026-03-07 11:57:14.326707+00
+9e4aa46d-194e-4e16-9e95-d5ba3b6f3229,analista-de-devops,Analista de DevOps,1,2026-03-06 21:21:20+00,true,2026-03-07 11:57:14.4697+00
+3f63f095-8aa4-456c-b421-8607fb64e43a,cientista-de-dados,Cientista de Dados,5,2026-03-06 21:21:19+00,true,2026-03-07 11:57:14.600927+00
+0a91c7dc-1813-41a9-a0a6-2c90c3fb7a0f,engenheiro-devops,Engenheiro DevOps,3,2026-03-06 21:53:08+00,true,2026-03-07 11:56:54.612602+00
+764dcfcb-4255-4435-aff2-a3ddc3a6cdca,tecnico-de-suporte-tecnico,Técnico de Suporte Técnico,1,2026-03-06 21:21:09+00,true,2026-03-07 11:57:15.166904+00
+f56f3777-6160-40e6-9240-316db15fd73d,analista-de-sistemas-de-saude,Analista de Sistemas de Saúde,1,2026-03-06 21:16:02.286+00,true,2026-03-07 11:57:15.43134+00
+0c0d4540-e720-4aad-a768-569298dd5919,administrador-de-banco-de-dados,Administrador de Banco de Dados,4,2026-03-06 21:05:21+00,true,2026-03-07 11:57:15.704909+00
+cc083a83-02d4-466f-bd5f-557c1dac9297,engenheiro-civil,Engenheiro Civil,1,2026-03-06 21:05:14+00,true,2026-03-07 11:57:30.876377+00
+758f38ec-63bc-423a-bd68-d1fa64ba678f,analista-de-suporte-comercial,Analista de Suporte Comercial,1,2026-03-06 20:57:31+00,true,2026-03-07 11:57:31.304772+00
+57f46d6c-efba-4be8-83b0-b2a1f59783e2,analista-de-dados-senior,Analista de Dados Sênior,1,2026-03-06 20:57:30+00,true,2026-03-07 11:57:31.417287+00
+c8f26751-1ec3-4673-b90f-9a2d42c92d68,analista-de-suporte,Analista de Suporte,8,2026-03-06 19:48:27+00,true,2026-03-07 11:58:35.861648+00
+cac4e265-6823-4722-9958-b1cad1a79f3c,analista-de-design-industrial,Analista de Design Industrial,1,2026-03-06 20:42:47+00,true,2026-03-07 11:57:31.640185+00
+67c7c70a-9f6c-4e76-9118-5b6d80f444ff,coordenador-de-projetos,Coordenador de Projetos,1,2026-03-06 20:42:35+00,true,2026-03-07 11:57:31.803723+00
+de87d54a-e649-4b79-8935-8cdf2b19a0b0,analista-de-logistica,Analista de Logística,1,2026-03-06 20:40:36+00,true,2026-03-07 11:57:32.023881+00
+8b54405d-60da-439f-8800-cdc8e094dcc3,assistente-administrativo-de-ti,Assistente Administrativo de TI,1,2026-03-06 20:36:16+00,true,2026-03-07 11:57:51.822407+00
+ab4c3e18-1e48-4ac0-90be-9d9e0edbb0d9,analista-de-suporte-n1,Analista de Suporte N1,3,2026-03-06 20:34:59+00,true,2026-03-07 11:57:52.092348+00
+5eff91dd-14b8-4fc3-838f-ce8cdcc754ed,analista-de-suporte-help-desk,Analista de Suporte Help Desk,1,2026-03-06 20:30:21+00,true,2026-03-07 11:57:52.490446+00
+29ea0ed4-ca07-4906-bb8d-9df0445f3184,analista-de-pesquisa-e-desenvolvimento,Analista de Pesquisa e Desenvolvimento,1,2026-03-06 20:29:19+00,true,2026-03-07 11:57:52.745446+00
+56851377-76ca-494f-8910-684fe61815e4,desenvolvedor-net-senior,Desenvolvedor .NET Sênior,1,2026-03-06 20:24:39+00,true,2026-03-07 11:57:52.871179+00
+acf75d86-c799-44ed-8454-433cc79dcb02,analista-de-ti,Analista de TI,1,2026-03-06 20:14:52+00,true,2026-03-07 11:57:53.396642+00
+0faeebfb-9b3a-4be8-b6be-e8770b053bf4,desenvolvedor-full-stack,Desenvolvedor Full Stack,8,2026-03-06 21:53:09+00,true,2026-03-07 11:56:54.279583+00
+fb3be985-dfa1-4042-89b0-125f01db58b7,coordenador-de-infraestrutura-de-ti,Coordenador de Infraestrutura de TI,1,2026-03-06 20:03:27+00,true,2026-03-07 11:58:12.720288+00
+1e1f68a8-15cc-459c-931e-cd10d38c8dc7,analista-de-suporte-ao-cliente,Analista de Suporte ao Cliente,2,2026-03-06 20:02:57+00,true,2026-03-07 11:58:12.848663+00
+ee17a678-4cd6-41c6-8b56-22fd4090562a,analista-de-operacoes,Analista de Operações,1,2026-03-06 20:02:03+00,true,2026-03-07 11:58:13.463906+00
+b0f0ae0e-270e-4aa8-a69f-66543a2458c0,analista-de-operacoes-de-previdencia,Analista de Operações de Previdência,1,2026-03-06 20:02:01+00,true,2026-03-07 11:58:13.643373+00
+13a68cc9-a2da-48de-a9d9-e50f87c80376,auditor-de-tecnologia-da-informacao,Auditor de Tecnologia da Informação,1,2026-03-06 20:01:53+00,true,2026-03-07 11:58:13.758144+00
+83a1fce2-0825-43c1-8a56-e4faad10995c,especialista-em-gestao-de-acessos,Especialista em Gestão de Acessos,1,2026-03-06 20:01:47+00,true,2026-03-07 11:58:13.871067+00
+b5c773b9-2e90-4dbf-a558-51fd32c80b9b,gerente-de-projetos-de-ti,Gerente de Projetos de TI,1,2026-03-06 20:01:35+00,true,2026-03-07 11:58:13.981955+00
+a53204c0-e069-4589-ae61-ff99464f35ff,analista-de-projetos-de-infraestrutura,Analista de Projetos de Infraestrutura,1,2026-03-06 20:00:20+00,true,2026-03-07 11:58:14.096941+00
+f56352a0-7e72-45bb-a6fc-57ad5f11ebac,analista-de-seguranca-da-informacao,Analista de Segurança da Informação,1,2026-03-06 19:59:18+00,true,2026-03-07 11:58:35.327226+00
+66979397-bb25-49c6-8d5e-347a34a0d29b,arquiteto-de-solucoes-em-nuvem,Arquiteto de Soluções em Nuvem,1,2026-03-06 19:59:04+00,true,2026-03-07 11:58:35.429535+00
+8830e1c5-15ac-4138-8645-3655b558a1a8,engenheiro-de-sistemas-embarcados,Engenheiro de Sistemas Embarcados,1,2026-03-06 19:57:54+00,true,2026-03-07 11:58:35.533645+00
+d067eb4f-d7ca-4281-a530-db1856b9bd41,analista-de-suporte-de-ti,Analista de Suporte de TI,3,2026-03-06 20:54:54+00,true,2026-03-07 11:57:31.526509+00
+3451dee7-dcc2-4319-83a1-3ba3d9287a1e,consultor-tecnico-de-produto,Consultor Técnico de Produto,1,2026-03-06 19:51:05+00,true,2026-03-07 11:58:35.751046+00
+d56b56ee-dc0d-4443-9808-d78c9c618e3d,tecnologista-de-producao,Tecnologista de Produção,1,2026-03-06 19:41:57+00,true,2026-03-07 11:58:36.389328+00
+58741d0f-36b3-4a01-a0bd-fefc6c1fa48d,estagiario-de-engenharia,Estagiário de Engenharia,1,2026-03-06 18:26:45+00,true,2026-03-07 11:59:11.446797+00
+d68265c5-ca91-46dc-ac5b-83deb691b8f2,docente,Docente,5,2026-03-06 19:06:01.544+00,true,2026-03-07 11:58:54.265635+00
+bd192167-30b9-4e6d-a5a2-3f1ff426430a,docente-de-tecnologia,Docente de Tecnologia,4,2026-03-06 18:21:53.308+00,true,2026-03-07 11:59:11.684991+00
+68576f88-15ff-4796-b359-082008f85439,diretor-de-plataformas-e-credito,Diretor de Plataformas e Crédito,1,2026-03-06 19:36:32+00,true,2026-03-07 11:58:36.489696+00
+9b29d81c-5ebd-4a1e-9ce8-ea83040f99f8,engenheiro-de-dados-especialista,Engenheiro de Dados Especialista,1,2026-03-06 19:35:58+00,true,2026-03-07 11:58:36.593851+00
+74f00f89-1062-4641-886e-91f899ea0218,arquiteto-devops,Arquiteto DevOps,1,2026-03-06 18:07:42+00,true,2026-03-07 11:59:31.362843+00
+2ec41571-d413-4b6b-8fd0-60b64e2d0602,devops-engineer,DevOps Engineer,1,2026-03-06 19:15:51+00,true,2026-03-07 11:58:54.047815+00
+48693589-f0a0-4180-9cfb-efa095e58caf,coordenador-de-ti,Coordenador de TI,1,2026-03-06 19:33:44+00,true,2026-03-07 11:58:36.801809+00
+6fc64d0f-652d-4450-ab9a-57de2a7d6986,assistente-de-suporte-a-vendas,Assistente de Suporte a Vendas,1,2026-03-06 19:10:29+00,true,2026-03-07 11:58:54.153924+00
+0e5445f5-b4d5-44d4-85ca-135609e5db79,analista-de-governanca-de-ti,Analista de Governança de TI,1,2026-03-06 21:53:09+00,true,2026-03-07 11:56:54.472508+00
+e7604c65-c09a-4c2d-afe6-60136d8d5781,gerente-de-estrategia-e-desenvolvimento-comercial,Gerente de Estratégia e Desenvolvimento Comercial,1,2026-03-06 21:52:21+00,true,2026-03-07 11:57:13.684721+00
+35797896-ae0d-4c5c-a6a3-1f7a6268d5be,tecnico-de-suporte-externo,Técnico de Suporte Externo,1,2026-03-06 20:14:09+00,true,2026-03-07 11:57:53.520504+00
+273d3e7e-7485-45d0-81ba-9267728b4a1a,especialista-em-deteccao-e-resposta-a-incidentes,Especialista em Detecção e Resposta a Incidentes,1,2026-03-06 20:02:43+00,true,2026-03-07 11:58:13.343526+00
+0ce3827e-3e26-498d-a650-a6d6f55b9319,pesquisador-farmaceutico,Pesquisador Farmacêutico,1,2026-03-06 13:52:46+00,true,2026-03-07 12:01:34.038583+00
+302d7f29-bf2f-4f92-aece-8e2cd348b1ba,analista-senior-de-suporte-tecnico,Analista Sênior de Suporte Técnico,1,2026-03-06 19:46:46+00,true,2026-03-07 11:58:36.288704+00
+8b98ce6e-5d35-4c08-83c9-2343ec216f4e,analista-de-recrutamento-e-desenvolvimento,Analista de Recrutamento e Desenvolvimento,1,2026-03-06 19:27:22+00,true,2026-03-07 11:58:53.545587+00
+deb64a17-ab24-4bc5-b65f-6d8cb7437155,especialista-em-treinamento-e-desenvolvimento,Especialista em Treinamento e Desenvolvimento,2,2026-03-06 19:26:14+00,true,2026-03-07 11:58:53.658869+00
+2e03b6a0-2d0c-4402-a171-b4d5b70c7dce,desenvolvedor,Desenvolvedor,1,2026-03-06 19:18:29+00,true,2026-03-07 11:58:53.790729+00
+177caa93-ecc5-492e-bbc7-8501bfb99672,assistente-de-sistemas-corporativos,Assistente de Sistemas Corporativos,1,2026-03-06 19:17:09+00,true,2026-03-07 11:58:53.906524+00
+fd1dd7fb-e1ca-4c42-8978-4abf34a1da4f,supervisor-de-rede,Supervisor de Rede,1,2026-03-06 18:53:22+00,true,2026-03-07 11:58:54.782825+00
+b9438d38-4a04-4dc3-8757-14dd6c2a67b7,auxiliar-de-logistica,Auxiliar de Logística,2,2026-03-06 18:51:28+00,true,2026-03-07 11:58:54.90418+00
+65999d7c-efe9-43be-8a32-3f596d915e0a,gerente-de-projetos,Gerente de Projetos,3,2026-03-06 15:50:32+00,true,2026-03-07 12:00:40.487613+00
+9d1cdf53-7a91-48eb-903d-a1a33dfd3029,atendente-de-loja,Atendente de Loja,1,2026-03-06 18:35:25.015+00,true,2026-03-07 11:59:11.216206+00
+ad23a7cb-7bb8-4d40-a572-aa36a1213ef6,analista-de-riscos-e-controles,Analista de Riscos e Controles,1,2026-03-06 18:31:36+00,true,2026-03-07 11:59:11.327672+00
+a42290aa-b35c-4122-a4b0-69760f7d4619,atendente-de-suporte,Atendente de Suporte,1,2026-03-06 18:21:16.957+00,true,2026-03-07 11:59:12.108467+00
+29cc4e34-16af-47ef-ba7f-7f3622f23852,analista-de-aprendizagem-e-desenvolvimento,Analista de Aprendizagem e Desenvolvimento,1,2026-03-06 18:18:30+00,true,2026-03-07 11:59:12.374029+00
+8bc77f70-6c26-4ead-a6a2-878c3498c159,gerente-de-riscos,Gerente de Riscos,1,2026-03-06 18:13:01+00,true,2026-03-07 11:59:12.494316+00
+728a337d-6535-47ca-b10b-03b88ec9327c,analista-devops,Analista DevOps,1,2026-03-06 18:11:14+00,true,2026-03-07 11:59:30.823464+00
+fb4c9361-eeb3-4be6-b552-dfa1acf301ac,consultor-oracle-epm,Consultor Oracle EPM,1,2026-03-06 18:09:06+00,true,2026-03-07 11:59:30.956941+00
+c6d9df17-e841-4a9b-bf5a-5221ec44da2a,representante-de-vendas,Representante de Vendas,1,2026-03-06 18:06:49+00,true,2026-03-07 11:59:31.527845+00
+f89453c8-cdc1-4ffa-b1b9-7377c75f37a2,arquiteto,Arquiteto,6,2026-03-06 19:28:51+00,true,2026-03-07 11:58:53.420882+00
+eb08004a-1d40-469c-9d39-2a231896b38a,consultor-de-negocios,Consultor de Negócios,1,2026-03-06 15:25:51+00,true,2026-03-07 12:00:58.749+00
+fbc5dc8c-686d-4ca4-bc73-e5c73aedb452,arquiteto-cloud,Arquiteto Cloud,1,2026-03-06 18:04:47+00,true,2026-03-07 11:59:31.925956+00
+e62027e9-9d16-4ed8-b6c9-68d705917a92,estagiario-de-suporte-de-ti,Estagiário de Suporte de TI,1,2026-03-06 18:03:52+00,true,2026-03-07 11:59:32.075262+00
+bdbc2eed-715f-4f39-9bf0-ec5348589c2b,analista-de-business-intelligence,Analista de Business Intelligence,4,2026-03-06 20:40:06+00,true,2026-03-07 11:57:32.243629+00
+d99f8ef3-7621-4cb1-a645-a35c66162ae6,analista-de-produto,Analista de Produto,1,2026-03-06 17:40:38+00,true,2026-03-07 11:59:32.5114+00
+d0e118fe-f78d-4017-b631-a9a3ffe6c8b0,engenheiro-de-instalacao-e-integracao,Engenheiro de Instalação e Integração,1,2026-03-06 17:31:15+00,true,2026-03-07 11:59:32.639614+00
+ffe95c63-4513-4f51-a5f8-8c98e0cf6a10,desenvolvedor-mobile,Desenvolvedor Mobile,1,2026-03-06 17:20:27+00,true,2026-03-07 11:59:32.806927+00
+def92d77-c07e-4617-b66b-e3bdb2b9504d,estagiario-de-suporte-tecnico,Estagiário de Suporte Técnico,1,2026-03-06 17:14:25+00,true,2026-03-07 11:59:48.825898+00
+8c7a009a-38ce-45b0-ba98-a5309e61246e,analista-de-inteligencia-de-dados,Analista de Inteligência de Dados,2,2026-03-06 16:47:34+00,true,2026-03-07 11:59:51.29791+00
+440abae4-2451-44c7-a1ef-80e2fc996bd8,estagiario-de-suporte-ao-cliente,Estagiário de Suporte ao Cliente,1,2026-03-06 17:14:23+00,true,2026-03-07 11:59:49.629367+00
+4a78056e-3e48-459e-9446-7d304c7f8639,gerente-de-desenvolvimento-comercial,Gerente de Desenvolvimento Comercial,1,2026-03-06 17:01:38+00,true,2026-03-07 11:59:50.588871+00
+cc0ffadd-dd65-46d0-a50e-f2e69d2ccfad,representante-comercial,Representante Comercial,3,2026-03-06 16:31:24+00,true,2026-03-07 11:59:52.618768+00
+fff6fa7d-7317-4cb2-a46d-2c76a8655a7a,especialista-devops,Especialista DevOps,3,2026-03-06 17:41:40+00,true,2026-03-07 11:59:32.367315+00
+f304605f-0e11-403d-bf9d-d08424d80981,analista-de-desenvolvimento-imobiliario,Analista de Desenvolvimento Imobiliário,1,2026-03-06 16:24:07+00,true,2026-03-07 11:59:53.743285+00
+b55671e0-f1f8-40b5-a654-2e1b1f9a0d6d,docente-trainee,Docente Trainee,1,2026-03-06 16:07:11.05+00,true,2026-03-07 11:59:54.609199+00
+101516a7-157c-45b4-adf1-d540ca108e8f,auxiliar-operacional,Auxiliar Operacional,1,2026-03-06 16:05:43+00,true,2026-03-07 12:00:39.185518+00
+8a03b161-4a20-4c87-a7ca-cae7ae9c5259,tecnico-de-suporte-de-ti,Técnico de Suporte de TI,7,2026-03-06 19:46:47+00,true,2026-03-07 11:58:36.185437+00
+6d7ff8e8-e3d9-4499-ad1e-20b8794255eb,desenvolvedor-frontend,Desenvolvedor Frontend,4,2026-03-06 18:47:53+00,true,2026-03-07 11:59:10.776052+00
+896c5f37-9d15-44ac-a96f-e098781313ae,arquiteto-de-solucoes,Arquiteto de Soluções,7,2026-03-06 18:05:15+00,true,2026-03-07 11:59:31.814033+00
+5caf5a80-3bcd-4ec6-9845-4cfb9ac2dd7f,tecnico-de-redes,Técnico de Redes,2,2026-03-06 18:26:16+00,true,2026-03-07 11:59:11.57087+00
+3eca64f5-fc61-4e3c-a3c6-c01f6c8edf0c,estagiario-de-desenvolvimento,Estagiário de Desenvolvimento,4,2026-03-06 17:14:24+00,true,2026-03-07 11:59:49.245579+00
+be430c79-7ecd-416f-98b4-0347e68541f9,engenheiro-tecnico,Engenheiro Técnico,1,2026-03-06 15:59:09+00,true,2026-03-07 12:00:39.451003+00
+4de1b319-74ee-43a6-bf86-b80ebf0fb5da,desenvolvedor-front-end,Desenvolvedor Front-end,1,2026-03-06 15:53:46+00,true,2026-03-07 12:00:39.666333+00
+0f3b8602-07fe-4a2c-939d-2e7c0320e95b,engenheiro-de-produtos,Engenheiro de Produtos,1,2026-03-06 15:50:33+00,true,2026-03-07 12:00:40.372853+00
+130cc1b8-a660-410c-93c9-fa7c9acd7a3c,desenvolvedor-backend,Desenvolvedor Backend,6,2026-03-06 18:40:21+00,true,2026-03-07 11:59:10.914903+00
+ff863473-b029-4e92-a191-73a7b0b3b8f8,analista-de-seguranca,Analista de Segurança,1,2026-03-06 15:13:54+00,true,2026-03-07 12:00:58.960389+00
+1f568b89-8ca0-4a76-b0a4-855acb3b2372,tecnico-de-suporte-contabil,Técnico de Suporte Contábil,1,2026-03-06 15:02:20+00,true,2026-03-07 12:00:59.072207+00
+7abd7516-7096-4edd-9f2f-3ae9696624eb,assistente-de-ti,Assistente de TI,4,2026-03-06 14:43:38+00,true,2026-03-07 12:00:59.180859+00
+2bb42726-4060-4bcf-8549-4114e8251bf5,analista-de-suporte-tecnico,Analista de Suporte Técnico,10,2026-03-06 21:02:05+00,true,2026-03-07 11:57:30.986507+00
+38092301-5c05-4ac3-8d87-0eeaa2a6eb4b,tecnico-de-suporte-nivel-2,Técnico de Suporte Nível 2,1,2026-03-06 14:08:11+00,true,2026-03-07 12:01:16.516909+00
+40cd14b4-c83e-435c-86ca-5a5fbba926de,arquiteto-empresarial,Arquiteto Empresarial,1,2026-03-06 13:54:30+00,true,2026-03-07 12:01:16.960143+00
+e109085a-2da5-4a74-8fb2-c7e4ceeaa4c2,executivo-de-vendas,Executivo de Vendas,4,2026-03-06 14:36:19+00,true,2026-03-07 12:01:15.535552+00
+a3ade18b-c6b4-4589-912e-5c0610dfaa9e,analista-de-produtos,Analista de Produtos,3,2026-03-06 14:05:49+00,true,2026-03-07 12:01:16.625777+00
+19ea7256-5949-4194-a552-b693744af977,arquiteto-de-dados,Arquiteto de Dados,4,2026-03-06 14:29:22+00,true,2026-03-07 12:01:15.651515+00
+697d83fb-0fb6-4aa2-8983-2a13681ff635,instalador-de-sistemas-de-seguranca,Instalador de Sistemas de Segurança,1,2026-03-06 01:15:42.245+00,true,2026-03-07 12:04:43.926198+00
+61adfec2-4b6b-4dd0-a669-8f1f18ab25aa,analista-de-planejamento-e-dados,Analista de Planejamento e Dados,1,2026-03-06 15:51:24+00,true,2026-03-07 12:00:40.133523+00
+f6aae182-0655-4b6f-84e1-6e3e1e724954,engenheiro-quimico,Engenheiro Químico,1,2026-03-06 13:48:37+00,true,2026-03-07 12:01:34.162861+00
+2338c021-2670-48c9-aec8-ff9db968bcbb,assistente-comercial,Assistente Comercial,1,2026-03-06 13:03:40+00,true,2026-03-07 12:01:35.677141+00
+968b1494-da0a-4823-a546-8f9729c7c125,desenvolvedor-power-platform,Desenvolvedor Power Platform,1,2026-03-06 12:54:11+00,true,2026-03-07 12:01:54.717336+00
+6bf6110a-b4e5-43e4-ad24-71b729b94e8b,arquiteto-de-streaming,Arquiteto de Streaming,1,2026-03-06 12:54:11+00,true,2026-03-07 12:01:54.853047+00
+00922aa8-f19b-4d19-9a6a-180fb8acbb6e,administrador-de-infraestrutura,Administrador de Infraestrutura,1,2026-03-06 09:51:11+00,true,2026-03-07 12:03:18.092734+00
+23d2c14a-1da9-465a-a4b1-7bef2ad43505,sales-development-representative,Sales Development Representative,1,2026-03-06 12:53:31+00,true,2026-03-07 12:01:55.09471+00
+8266d515-3106-4d12-a1b8-3b6ca184cb96,coordenador-de-manutencao,Coordenador de Manutenção,1,2026-03-06 07:35:08+00,true,2026-03-07 12:03:36.837485+00
+4a44c5b3-0638-4eda-a666-efc07315f4c3,gerente-de-operacoes,Gerente de Operações,1,2026-03-06 10:53:09+00,true,2026-03-07 12:02:57.999284+00
+03fe1d51-e196-4746-95d1-996da8a02cb6,dba-oracle,DBA Oracle,1,2026-03-06 12:53:08+00,true,2026-03-07 12:01:55.224502+00
+0f6524a0-cc4c-42a0-a009-d577e666cc50,assistente-de-gestao-de-fornecedores,Assistente de Gestão de Fornecedores,1,2026-03-06 09:52:19+00,true,2026-03-07 12:02:58.09252+00
+056b032f-33a2-4fc1-9036-11ec1e46bda0,tech-lead,Tech Lead,4,2026-03-06 09:51:25+00,true,2026-03-07 12:02:58.399377+00
+46023cfa-7724-46db-96fe-279ec64e448f,desenvolvedor-outsystems,Desenvolvedor OutSystems,1,2026-03-06 12:41:44+00,true,2026-03-07 12:01:55.600554+00
+f5952dfa-06d7-46ce-bcab-72a4fa7f083e,arquiteto-de-software,Arquiteto de Software,1,2026-03-06 12:39:30+00,true,2026-03-07 12:01:55.707375+00
+c2b0fdd9-059a-4423-80d5-1c921f1b3d57,arquiteto-servicenow,Arquiteto ServiceNow,2,2026-03-06 02:35:31+00,true,2026-03-07 12:04:10.658307+00
+06219026-211c-4c0d-b1cd-b6a657076e5f,assistente-de-infraestrutura,Assistente de Infraestrutura,1,2026-03-06 12:25:02+00,true,2026-03-07 12:01:55.964889+00
+0e3978f7-0ea7-4cb4-b36b-b6f3a7d5a111,desenvolvedor-java,Desenvolvedor Java,4,2026-03-06 12:46:42+00,true,2026-03-07 12:01:55.352817+00
+627f6304-e3ee-46fc-be7e-ef052dc6d4e1,analista-de-credito,Analista de Crédito,1,2026-03-06 11:36:02+00,true,2026-03-07 12:01:56.466202+00
+76325e4e-cb7a-42df-b574-ed60cbf7b25e,gerente-de-desenvolvimento-de-canais,Gerente de Desenvolvimento de Canais,1,2026-03-06 11:36:02+00,true,2026-03-07 12:02:57.83982+00
+0af16597-0baa-4807-a19e-bb237b24198c,tecnico-de-suporte-cloud,Técnico de Suporte Cloud,1,2026-03-06 09:51:32+00,true,2026-03-07 12:02:58.202143+00
+4f8ec3d9-1870-4722-bab2-b722d5bcd206,desenvolvedor-de-sistemas,Desenvolvedor de Sistemas,2,2026-03-06 09:51:16+00,true,2026-03-07 12:03:17.55747+00
+0a7dd4aa-5af7-4f49-9458-0703a74d6cac,tecnico-de-suporte-trainee,Técnico de Suporte Trainee,1,2026-03-06 09:51:25+00,true,2026-03-07 12:02:58.500932+00
+a051f6ff-70f9-42e5-b1c3-11ebaefd48c3,coordenador-de-credenciamento,Coordenador de Credenciamento,1,2026-03-06 09:51:24+00,true,2026-03-07 12:02:58.59197+00
+85a202b5-db29-4ce1-bbea-a57db775d26c,tech-lead-full-stack,Tech Lead Full Stack,1,2026-03-06 09:51:23+00,true,2026-03-07 12:02:58.683246+00
+826a0c0c-cfc6-4600-967e-6e26723fc5c0,operador-de-redes,Operador de Redes,1,2026-03-06 09:51:20+00,true,2026-03-07 12:02:58.980362+00
+21f1864b-ff9d-4673-925c-09245a00fb1c,analista-de-desenvolvimento-analitico,Analista de Desenvolvimento Analítico,1,2026-03-06 09:51:18+00,true,2026-03-07 12:02:59.074412+00
+516dfbeb-cc17-4a83-aa96-7cbaf123fe0d,tecnico-de-engenharia-de-produto,Técnico de Engenharia de Produto,1,2026-03-06 09:51:18+00,true,2026-03-07 12:02:59.190712+00
+8b387af1-9151-411d-ba8b-cc49f6c9af66,account-manager,Account Manager,1,2026-03-06 00:52:18+00,true,2026-03-07 12:05:03.995243+00
+8adc3c1d-0189-4510-99fb-b7b989eb2f23,coordenador-de-pre-vendas,Coordenador de Pré-Vendas,1,2026-03-06 09:50:46+00,true,2026-03-07 12:03:18.307962+00
+f64def70-a869-4e99-845f-6f87373647f8,supervisor-de-automacao-industrial,Supervisor de Automação Industrial,1,2026-03-06 09:50:17+00,true,2026-03-07 12:03:18.747758+00
+28cbfbf2-d24d-4861-a199-d984860a232a,analista-de-bi,Analista de BI,1,2026-03-06 08:07:59+00,true,2026-03-07 12:03:35.718114+00
+0b0c946e-0706-4b2d-b752-cc325590ace1,vendedor-b2b,Vendedor B2B,1,2026-03-06 08:03:41+00,true,2026-03-07 12:03:35.825538+00
+22645016-0f12-4d01-b857-aab197603aae,tecnico-de-seguranca,Técnico de Segurança,1,2026-03-06 07:45:06+00,true,2026-03-07 12:03:35.92498+00
+287d1423-8695-4c47-ab10-44ef1ab476a6,moderador-de-conteudo,Moderador de Conteúdo,1,2026-03-06 07:41:42+00,true,2026-03-07 12:03:36.022988+00
+075806c6-7427-4689-91f8-529cf086d4ef,desenvolvedor-de-software,Desenvolvedor de Software,1,2026-03-06 07:40:33+00,true,2026-03-07 12:03:36.226096+00
+9fb522cb-dd40-4193-b4b8-af854c87f1df,desenvolvedor-protheus,Desenvolvedor Protheus,1,2026-03-06 07:40:31+00,true,2026-03-07 12:03:36.321968+00
+4dd93e3b-10e7-4e91-9a40-424032b6b139,desenvolvedor-net,Desenvolvedor .NET,2,2026-03-06 07:40:24+00,true,2026-03-07 12:03:36.628562+00
+6bc2bf57-96ff-4471-b468-e5e71a952814,professor-de-educacao-basica,Professor de Educação Básica,1,2026-03-06 06:15:27.522+00,true,2026-03-07 12:03:54.052935+00
+37347bb1-683d-4c9c-bb9b-c34a50c3f384,supervisor-de-suporte-tecnico,Supervisor de Suporte Técnico,2,2026-03-06 18:05:41+00,true,2026-03-07 11:59:31.669607+00
+a0b82aa2-ccc5-4078-a4ac-0a3fec0b4cc1,especialista-em-vendas,Especialista em Vendas,1,2026-03-06 04:32:11+00,true,2026-03-07 12:03:54.309172+00
+9ea37f95-6933-4e62-ac5f-d697b77a4ed0,analista-de-automacao-de-processos,Analista de Automação de Processos,1,2026-03-06 03:59:14+00,true,2026-03-07 12:03:54.419719+00
+9b3e7e9d-68fd-41e8-8549-0d3ddf0465b6,coordenador-de-dados-e-ia,Coordenador de Dados e IA,1,2026-03-06 03:13:39+00,true,2026-03-07 12:03:54.846533+00
+bcc04bbe-424d-4165-b10a-9ac7bea74a3e,assistente-de-produto,Assistente de Produto,5,2026-03-06 02:44:12+00,true,2026-03-07 12:03:55.046651+00
+dad72f6c-93c6-4be0-befc-c954a50bf76e,assistente-de-engenharia-civil,Assistente de Engenharia Civil,1,2026-03-06 02:43:52+00,true,2026-03-07 12:04:10.057879+00
+0a860bbb-d535-4936-b85a-8753ac9c177e,desenvolvedor-php,Desenvolvedor PHP,2,2026-03-06 05:14:25+00,true,2026-03-07 12:03:54.201972+00
+361f646c-fe36-4db3-b12c-27432891ecba,estagiario-de-infraestrutura,Estagiário de Infraestrutura,1,2026-03-06 02:01:53+00,true,2026-03-07 12:04:11.594713+00
+36702d92-6892-47ff-a757-9844736365dd,desenvolvedor-senior,Desenvolvedor Sênior,1,2026-03-06 01:56:58+00,true,2026-03-07 12:04:11.802377+00
+14725ce0-12f4-43b9-8117-d616cac11204,assistente-de-marketing,Assistente de Marketing,1,2026-03-06 01:00:22+00,true,2026-03-07 12:05:03.206846+00
+dde02eb2-1936-40e9-bdb5-a8340a3a9967,desenvolvedor-de-banco-de-dados,Desenvolvedor de Banco de Dados,1,2026-03-06 01:56:58+00,true,2026-03-07 12:04:43.141905+00
+8ffd0b68-d71d-4b2f-84cc-2b9a0e60d5c2,eletricista-de-redes,Eletricista de Redes,2,2026-03-06 02:35:36+00,true,2026-03-07 12:04:10.523861+00
+70d9f25c-d67d-4886-b3de-c329b736c45e,tecnico-de-suporte,Técnico de Suporte,23,2026-03-06 20:07:08+00,true,2026-03-07 11:58:12.479549+00
+d3a0ca28-72ae-4abf-b387-5d147636b086,desenvolvedor-fullstack,Desenvolvedor Fullstack,5,2026-03-06 01:14:32.828+00,true,2026-03-07 12:04:44.040434+00
+50dd9443-8313-47c7-ac96-2458bfc643e6,tecnico-de-infraestrutura,Técnico de Infraestrutura,2,2026-03-06 12:22:01+00,true,2026-03-07 12:01:56.077136+00
+89a521b4-7e1a-4886-a7ac-27c4b4f99305,auxiliar-de-suporte-tecnico,Auxiliar de Suporte Técnico,1,2026-03-06 00:52:58+00,true,2026-03-07 12:05:03.50335+00
+714f3106-2ba5-45f6-8f66-fc1b84874425,assistente-de-suporte-ao-cliente,Assistente de Suporte ao Cliente,1,2026-03-06 00:52:28+00,true,2026-03-07 12:05:03.605193+00
+5544b9ef-8f81-42e0-a68b-7d7206c13129,tech-lead-de-sistemas-embarcados,Tech Lead de Sistemas Embarcados,1,2026-03-06 00:52:25+00,true,2026-03-07 12:05:03.690971+00
+d579315e-e334-4732-b724-91c8a70d29e2,instalador-de-redes-ftth,Instalador de Redes FTTH,1,2026-03-06 00:52:22+00,true,2026-03-07 12:05:03.790839+00
+183707be-9c2f-4f3d-af7c-0375179731d6,gerente-de-vendas,Gerente de Vendas,2,2026-03-06 00:52:21+00,true,2026-03-07 12:05:03.898732+00
+b88d61d4-a4a1-4cbe-a46c-d9e39c324f19,analista-de-gestao-de-portfolio,Analista de Gestão de Portfólio,1,2026-03-06 00:52:16+00,true,2026-03-07 12:05:04.211141+00
+2474e922-1d7e-4ca9-acfa-5d45e767b47f,head-de-produto,Head de Produto,1,2026-03-06 00:51:57+00,true,2026-03-07 12:05:04.416447+00
+db7769f8-d6b8-4ed9-bf26-78ec406b42ae,gerente-de-ti,Gerente de TI,2,2026-03-06 09:51:18+00,true,2026-03-07 12:03:17.302988+00
+61a603ef-82fc-42f0-9bbe-30a9097c709d,tecnico-de-medicao,Técnico de Medição,1,2026-03-05 17:56:03+00,true,2026-03-07 12:07:25.856118+00
+adcfdc9d-079d-45bb-bb15-cade7272e2d1,arquiteto-de-solucoes-cloud,Arquiteto de Soluções Cloud,1,2026-03-06 00:57:17+00,true,2026-03-07 12:05:03.30091+00
+aed9284f-910c-4551-bbce-6e3eb5c4ff35,coordenador-de-unidade,Coordenador de Unidade,1,2026-03-06 00:51:57+00,true,2026-03-07 12:05:04.515945+00
+a000fedc-fcfa-40a0-aec8-8eabe008d1fa,auxiliar-de-ti,Auxiliar de TI,1,2026-03-06 00:51:21+00,true,2026-03-07 12:05:22.306704+00
+777120a3-8344-465c-993e-2c48c0f1a265,programador-full-stack,Programador Full Stack,1,2026-03-06 00:51:15+00,true,2026-03-07 12:05:22.647241+00
+7a3624bc-1f09-414c-bd76-0f2928ad0de8,estagiario-de-arquitetura,Estagiário de Arquitetura,1,2026-03-06 00:51:14+00,true,2026-03-07 12:05:22.754188+00
+0c730087-885f-4274-854d-55f55a70c9df,estagiario-de-ti,Estagiário de TI,1,2026-03-06 00:51:01+00,true,2026-03-07 12:05:23.064969+00
+dfa29a44-5e98-4bf7-a906-0d4adbde79d5,instrutor-de-treinamento,Instrutor de Treinamento,1,2026-03-06 00:35:38.002+00,true,2026-03-07 12:05:23.440336+00
+7d312557-9348-41a3-b576-53eb3880d7b2,analista-contabil,Analista Contábil,1,2026-03-06 00:33:22.305+00,true,2026-03-07 12:05:23.555583+00
+42cd32a2-1741-4d5b-831d-ead1aed926dd,engenheiro-de-projetos,Engenheiro de Projetos,1,2026-03-06 00:31:42.1+00,true,2026-03-07 12:05:23.657407+00
+708ccb78-8bd9-4ecd-a1a9-fa028234d179,desenvolvedor-web,Desenvolvedor Web,1,2026-03-06 00:09:01+00,true,2026-03-07 12:05:41.132453+00
+ccb6fad7-5d8e-4613-a73d-51ad5cbca871,assistente-de-desenvolvimento-de-produto,Assistente de Desenvolvimento de Produto,1,2026-03-06 00:00:00+00,true,2026-03-07 12:05:41.237998+00
+470338cb-5a40-4c80-a266-33afed5c8f28,especialista-em-integracoes-servicenow,Especialista em Integrações ServiceNow,1,2026-03-05 23:46:10+00,true,2026-03-07 12:05:41.692582+00
+3f66f5c5-cf48-4538-8a2e-684422a33207,coordenador-de-desenvolvimento-de-sistemas,Coordenador de Desenvolvimento de Sistemas,1,2026-03-05 23:43:11+00,true,2026-03-07 12:05:41.804588+00
+24031c8d-bb04-42e4-ae36-d37e51eed450,analista-de-gestao-de-campanhas,Analista de Gestão de Campanhas,1,2026-03-05 23:14:28+00,true,2026-03-07 12:05:41.908649+00
+a09e3fdb-dce0-4463-8451-022fb32f4c35,gerente-de-categoria,Gerente de Categoria,1,2026-03-05 23:01:32+00,true,2026-03-07 12:05:42.229676+00
+805fe5ee-be58-45b1-872e-ce096fef68d8,estagiario-em-ciencia-de-dados,Estagiário em Ciência de Dados,1,2026-03-05 22:51:37+00,true,2026-03-07 12:05:42.346594+00
+8c5a6a6a-f02b-4957-b5fb-322cfc48084f,especialista-em-ciencia-de-dados,Especialista em Ciência de Dados,1,2026-03-05 22:47:16+00,true,2026-03-07 12:05:42.44154+00
+c2e14396-1c45-42d2-82b8-b0e60672a6a7,executivo-de-contas,Executivo de Contas,1,2026-03-05 22:04:01+00,true,2026-03-07 12:06:00.420072+00
+6d56aca3-ef25-4bcf-bc3a-4c1a35abbcbd,analista-de-planejamento-comercial,Analista de Planejamento Comercial,1,2026-03-05 21:51:28+00,true,2026-03-07 12:06:00.988837+00
+0997263a-99b0-4abd-9c8a-4a1c7bb8b103,analista-de-desenvolvimento-de-pessoas,Analista de Desenvolvimento de Pessoas,1,2026-03-05 21:51:21+00,true,2026-03-07 12:06:01.454395+00
+dc143478-de4e-479a-9d80-b05d73c1a627,aprendiz-de-tecnologia-da-informacao,Aprendiz de Tecnologia da Informação,1,2026-03-05 21:51:17+00,true,2026-03-07 12:06:01.568817+00
+8e544929-08c7-4074-8cb8-9f1f33ed6b41,analista-de-custos,Analista de Custos,1,2026-03-05 21:51:08+00,true,2026-03-07 12:06:01.821385+00
+854594f4-32c3-4b4c-8beb-41c3dd4c8994,especialista-em-infraestrutura-de-dados,Especialista em Infraestrutura de Dados,1,2026-03-05 21:50:23+00,true,2026-03-07 12:06:20.69711+00
+dee1fbb5-f8d4-4bfc-9ef4-d495be648719,aprendiz-de-infraestrutura,Aprendiz de Infraestrutura,1,2026-03-05 21:50:18+00,true,2026-03-07 12:06:20.834315+00
+276b289c-44c7-4e6f-aab0-f368ea69b0e7,especialista-em-governanca-de-ti,Especialista em Governança de TI,1,2026-03-05 21:21:17+00,true,2026-03-07 12:06:21.178856+00
+4c65cfbe-3a5d-40f2-bb54-95db8ddb2284,estagiario-de-recursos-humanos,Estagiário de Recursos Humanos,1,2026-03-05 21:04:04+00,true,2026-03-07 12:06:21.655919+00
+19e6da6a-afdf-48c7-8f91-f41f7a801c88,projetista-mecanico,Projetista Mecânico,1,2026-03-05 20:56:47+00,true,2026-03-07 12:06:21.795109+00
+53d0eaea-312d-4ed8-b4c3-e41794bb82c1,analista-de-operacoes-devops-sre,Analista de Operações DevOps SRE,1,2026-03-05 20:42:36+00,true,2026-03-07 12:06:22.053942+00
+f5feb49c-c853-4fce-9370-adfd3a87b81c,psicologo-especialista,Psicólogo Especialista,1,2026-03-05 20:41:27+00,true,2026-03-07 12:06:22.1819+00
+0dd431dc-da63-4889-94c2-4055c224f8ef,coordenador-de-equipes,Coordenador de Equipes,1,2026-03-05 20:40:55+00,true,2026-03-07 12:06:43.36999+00
+1a963027-e289-46c1-a9e5-682d2606c1b2,consultor-de-relacionamento,Consultor de Relacionamento,1,2026-03-05 20:31:44+00,true,2026-03-07 12:06:43.583424+00
+920d088c-802c-42dd-92fc-2b8bcc7b8c6f,analista-de-negocios,Analista de Negócios,1,2026-03-05 20:23:36+00,true,2026-03-07 12:06:43.904633+00
+b8c87dde-121f-44fe-bcea-0245e69007a9,gerente-comercial,Gerente Comercial,1,2026-03-05 20:20:56+00,true,2026-03-07 12:06:44.016098+00
+99787552-8a8c-4609-9551-5b274d3606aa,administrador-de-sistemas,Administrador de Sistemas,1,2026-03-05 20:20:56+00,true,2026-03-07 12:06:44.220858+00
+aa2eb005-3789-43f8-8544-335dd9867afc,desenvolvedor-c,Desenvolvedor C#,1,2026-03-05 20:20:00+00,true,2026-03-07 12:06:44.322903+00
+dd004b54-c7e0-4268-a2b9-d2833718988b,coordenador-de-trade-marketing,Coordenador de Trade Marketing,1,2026-03-05 20:14:58+00,true,2026-03-07 12:06:44.526119+00
+e1c581e6-0afa-4259-a7e1-20bfa6f751bc,engenheiro-de-machine-learning,Engenheiro de Machine Learning,1,2026-03-05 20:13:07+00,true,2026-03-07 12:06:44.625186+00
+10611311-d550-490c-b09d-b5f3532bf0b4,instrutor-de-formacao,Instrutor de Formação,1,2026-03-05 20:09:47+00,true,2026-03-07 12:06:44.734205+00
+7b039436-6584-4c5c-ba90-440992c7e2ae,enfermeiro,Enfermeiro,1,2026-03-05 20:06:56+00,true,2026-03-07 12:07:04.810019+00
+033149ff-659c-4bf1-96b0-1386d8b8da85,desenvolvedor-cloud,Desenvolvedor Cloud,1,2026-03-05 20:02:48+00,true,2026-03-07 12:07:05.013584+00
+b59f11ad-3174-481b-8cc3-a084b90134b4,engenheiro-de-seguranca-contra-incendio,Engenheiro de Segurança Contra Incêndio,1,2026-03-05 19:54:25+00,true,2026-03-07 12:07:05.108891+00
+1cccc2fe-ae8b-4b9c-8137-349a1d8d2f92,tecnico-de-suporte-n1,Técnico de Suporte N1,1,2026-03-05 19:54:11+00,true,2026-03-07 12:07:05.212485+00
+e0934eb3-704d-49ce-8f89-6ed1a449cefe,arquiteto-de-ti,Arquiteto de TI,1,2026-03-05 19:53:42+00,true,2026-03-07 12:07:05.313038+00
+dc577d9d-c18c-43ea-9ae4-21ce44020d71,especialista-em-desenvolvimento-farmaceutico,Especialista em Desenvolvimento Farmacêutico,1,2026-03-05 19:46:46+00,true,2026-03-07 12:07:05.408372+00
+e3dae85c-4ea0-43a7-9a12-072ed38bbf39,coordenador-de-inteligencia-de-negocio,Coordenador de Inteligência de Negócio,1,2026-03-05 19:31:38+00,true,2026-03-07 12:07:05.722823+00
+5b66a4ed-828c-4c71-ac2b-1ccbd98f29f7,analista-de-ti-sap-sd,Analista de TI SAP SD,1,2026-03-05 19:30:51+00,true,2026-03-07 12:07:05.819395+00
+e18fdeb4-ad2c-42ec-9534-b4d923b14423,analista-de-ti-sap-mm,Analista de TI SAP MM,1,2026-03-05 19:16:11+00,true,2026-03-07 12:07:05.922606+00
+b7ccecc8-4432-425f-a45c-6c013b53ec9d,analista-de-ti-sap-fico,Analista de TI SAP FICO,1,2026-03-05 19:15:48+00,true,2026-03-07 12:07:06.017837+00
+ec7a2904-0fd4-4704-95e9-db84fc608cc5,desenvolvedor-sap-abap,Desenvolvedor SAP ABAP,1,2026-03-05 19:00:35+00,true,2026-03-07 12:07:06.227185+00
+2772bddf-bfa3-4dd0-86e9-258648b29211,gerente-de-produto,Gerente de Produto,1,2026-03-05 18:48:29+00,true,2026-03-07 12:07:24.964904+00
+1d3d6f67-5c5d-454b-92fd-e9d8ac623334,designer-de-produto,Designer de Produto,1,2026-03-05 18:48:18+00,true,2026-03-07 12:07:25.073195+00
+f0876d83-3966-4d05-a137-587cb45c6653,arquiteto-de-seguranca-da-informacao,Arquiteto de Segurança da Informação,1,2026-03-05 17:45:42+00,true,2026-03-07 12:07:47.189353+00
+8c7803d5-562c-43e4-8271-ea7b6d4c6d86,tecnico-de-manutencao,Técnico de Manutenção,1,2026-03-05 17:39:37+00,true,2026-03-07 12:07:47.658564+00
+f42aa236-923d-4b75-8878-0b7e07692f05,supervisor-de-desenvolvimento-de-sistemas,Supervisor de Desenvolvimento de Sistemas,1,2026-03-05 17:20:30+00,true,2026-03-07 12:07:47.924012+00
+314ead94-6aca-4680-bae4-660d80bf677f,arquiteto-de-nuvem-aws,Arquiteto de Nuvem AWS,1,2026-03-05 17:15:25+00,true,2026-03-07 12:07:48.040009+00
+f44cde64-587f-4fda-a42c-53a676e5f7a6,administrador-de-redes,Administrador de Redes,1,2026-03-05 16:56:52+00,true,2026-03-07 12:07:48.337526+00
+946bb018-df1a-40ed-a5f9-4f6b457e0c34,gerente-regional,Gerente Regional,1,2026-03-05 16:55:58+00,true,2026-03-07 12:07:48.445309+00
+8af2c9d5-a96a-4782-955f-a4dd8b40db05,analista-de-fraudes,Analista de Fraudes,1,2026-03-05 16:55:49+00,true,2026-03-07 12:07:48.561826+00
+2f35abeb-5b03-4e08-b9c0-497f68cb98a2,analista-de-suprimentos,Analista de Suprimentos,1,2026-03-05 16:42:45+00,true,2026-03-07 12:07:49.036204+00
+c851c6b0-8218-4015-860b-5a003a87d225,analista-de-sistemas,Analista de Sistemas,3,2026-03-06 07:40:30+00,true,2026-03-07 12:03:36.532579+00
+1ba297e7-fe0a-42e1-b9e9-52801921690c,assistente-de-desenvolvimento-profissional,Assistente de Desenvolvimento Profissional,1,2026-03-06 00:51:56+00,true,2026-03-07 12:05:04.610268+00
+31213971-8592-4a00-a1d4-35bfba4c07a9,operador-de-tratamento-de-agua,Operador de Tratamento de Água,1,2026-03-06 00:23:40+00,true,2026-03-07 12:05:41.028615+00
+2b834181-458f-4f9a-9c87-3278fb5ff1bf,analista-funcional-sap,Analista Funcional SAP,1,2026-03-05 21:59:52+00,true,2026-03-07 12:06:00.652793+00
+6950d0dd-a0a2-495e-8e53-54408a98bef8,estagiario-de-pesquisa-e-desenvolvimento,Estagiário de Pesquisa e Desenvolvimento,1,2026-03-05 21:51:01+00,true,2026-03-07 12:06:20.465834+00
+cf292e78-e178-4e85-8d64-0df7cda493c6,business-development-representative,Business Development Representative,1,2026-03-05 20:20:56+00,true,2026-03-07 12:06:44.110601+00
+6e6256ad-eda6-4a61-96e7-23fd41a26d38,consultor-de-desenvolvimento-organizacional,Consultor de Desenvolvimento Organizacional,1,2026-03-05 20:08:58+00,true,2026-03-07 12:06:44.855645+00
+0d246382-634a-4b40-9103-9dca37cd5e9b,arquiteto-de-cloud,Arquiteto de Cloud,1,2026-03-05 18:51:11+00,true,2026-03-07 12:07:24.761252+00
+1a7d26ee-c31a-4dcc-838f-881d45f50883,representante-de-desenvolvimento-de-vendas,Representante de Desenvolvimento de Vendas,3,2026-03-05 18:34:57+00,true,2026-03-07 12:07:25.173055+00
