@@ -1,0 +1,459 @@
+Passar o dia trampando em PC lento não
+dá, né, papai?
+Na Terabte você tem preço competitivo,
+pagando em até 18 vezes frete grátis
+para divas regiões do Brasil. E o link
+tá na descrição desse vídeo.
+>> Um time que eu acompanho 10 dev SASBIT B
+de verdade, clientes pagantes, domínio
+complexo, billing, contratos, relatórios
+fiscais, coisa séria. Eles seguiram
+clean architecture a risca, várias
+camadas, interfaces para cada
+repositório, use case para cada
+operação, ports, adapters, DTOs,
+mappers, tudo o que o Ancob mandou. Seis
+meses depois eles adotaram IA com cloud
+code no fluxo. A produtividade devia ter
+dobrado, mas não dobrou. Em alguns
+módulos, na verdade caiu uma feature
+simples, como adicionar um campo novo,
+por exemplo, tocava 18 arquivos. Aí alia
+todos, consumia contexto demais, às
+vezes inventava relação que não existia,
+às vezes sugeria um design patter ainda
+mais complexo, porque, pô, se já usa
+Clean Architecture, vai usar Securos, S,
+não é o que a pensava. Às vezes repetia
+lógica em dois lugares porque não achou
+a primeira, o custo pro feature ficou
+alto. Alto em token, alto em revisão em
+bug que chegou em produção.
+>> [ __ ] isso é interessante, esse é
+artigo, cara. E a arquitetura de
+software, uma conveniência perigosa.
+Você perguntou a seu assistente como
+estruturar um novo serviço? Ele sugeriu
+o uso de eventouring com CQRS, uma
+arquitetura hexagonal com portas e
+adapters, um padrão saga para transação
+distribuída. A explicação foi clara. Os
+exemplos de código eram concisos e
+diagrama fazer o sentido. Seis meses
+depois, sua equipe de três pessoas está
+mantendo uma infraestrutura de eventing
+para um aplicativo que atende 200
+requisições por dia. Isso é mais comum
+que imagina, cara. Não precisa nem de a,
+só pegar um emocionado que ele faz uma
+[ __ ] dessa. Cada funcionalidade levanta
+três vezes, leva três vezes mais tempo
+do que deveria. [ __ ] maneiro, hein?
+Vamos ver o vídeo do Gan.
+>> Esse vídeo não é sobre Mataclin
+Architecture, é sobre uma pergunta
+desconfortável. Quanto da arquitetura
+que a gente defendeu por décadas era
+sobre código e quanto era sobre os
+nossos próprios limites?
+>> Defend. Eu acho que, mano, clean
+architecto é mais sobre ego do que sobre
+código. E olha que, mano,
+a grande maioria dos projetos que usa
+clean é mais para satisfazer ego, ego de
+dev, ego de liderança, do que realmente
+para resolver um problema de fato. Cara,
+>> fica até o fim porque eu vou te mostrar
+dados que mudaram como eu penso sobre a
+arquitetura de software. Antes de tu
+achar que eu tô surfando o hype da IA,
+deixa eu começar por um ponto que não
+tem nada a ver com IA. A indústria vem
+simplificando a arquitetura há anos,
+muito antes do Cloud Cistir. Olha para
+Go, Rust.
+>> Exatamente. Exatamente. Cara, o Gol,
+mano, ele veio maravilhoso. Ele veio
+para jogar na cara de todo mundo que não
+precisa desse monte de camada para
+programar.
+>> OTlin ou até mesmo as versões mais
+recentes do Java são muito menos
+verbosas. Go, por exemplo, não tem
+classes, não tem herança, não tem
+anotação, tem instruct, interface
+implícita e função. E todo mundo ama
+trabalhar. E ainda assim todo o sistema
+GO sério em produção, Cubernets, Docker,
+a infraestrutura inteira do Cloud
+Flareir implementa os princípios
+fundamentais de clean architecture, que
+são quais? Lógica de negócio isolada,
+injeção de dependência, testabilidade,
+sem cerimônia, direto ao ponto. Isso
+importa porque mostra uma coisa, o
+princípio sempre foi separável da
+prática. O que é questionável é a
+implementação ritualística. Um monte de
+camadas físicas, interface para cada
+repositório, mesmo quando só tem uma
+implementação. Use case para cada
+operação crude, mappers para todo lado,
+teos para todo lado, esse tipo de coisa.
+E aí vem a parte que a torna impossível
+ignorar. Cada arquivo a mais no teu
+projeto é token a mais no contexto
+agente. Ou seja, tu
+>> [ __ ] faz sentido, mano. Quanto mais
+cara, então eu tava vendo uma parada
+falando sobre o Ruby, que a galera falou
+assim: "Cara, eu tenho que achar esse
+artigo ainda, mano, que os caras falaram
+que o o Ruby on Ross ele acaba sendo
+make que um AI friendly, porque ele não
+tem tanto arquivo, tá ligado? Ele não
+tem tanta coisa igual esse monte de
+camada que tem aí. [ __ ] isso faz
+total sentido, mano. Inclusive, você vê
+esse projeto aqui, mano? Cavermen, isso
+aqui, mano, é maravilhoso porque ele tem
+uma parada lá, cara, que ele ele é como
+se fosse uma skill. Acho que ele é uma
+skill, se eu não me engano, que você
+coloca lá no seu cloud code lá, pro seu
+cloud code falar igual homem das
+cavernas com você, porque ele fala
+assim, ó, normal cloud code 69 tokens.
+Aí o Cloud Code vai lá e te responde
+assim, ó. Ó, o motivo pelo qual seu
+componente React está sendo renderizado,
+provavelmente é porque você está criando
+uma nova referência de objeto a cada
+ciclo de renderização. Quando você passa
+um objeto in line com a própria, a
+comparação superficial do React vê como
+um objeto diferente cada vez que aciona
+uma nova rederização. Recomendo você
+usar uso memo para memorizar o objeto.
+Aí quando usa esse
+Coverman, o homem das cavernas aqui, o
+Cloud Code te responde assim, ó: "Nova
+referência do objeto a cada
+renderização. Propriedade de objeto in
+line, nova referência, nova
+renderização. Envolva em use". Acabou.
+Que aí ele vai e fala que ao invés de
+você gastar 69 token, você gasta só 19
+na resposta.
+Porque realmente, cara, eu falei:
+"Caralho, isso faz muito sentido". Então
+isso aqui que o amigo falou: "Mano,
+confirma, confirma. Quanto mais artigo,
+mais artigo, mais gasta.
+>> Paga pela tua decisão. Cada indireção a
+mais é um pulo a mais para a entender o
+fluxo. Cada adração sem propósito real é
+ruído competindo com a lógica que
+importa. Ou seja, tu tá pagando pela tua
+capacidade de fazer o design do
+software. Isso não é opinião, isso é
+mensurável. Tu roda o mesmo prompt em
+dois projetos, um com uma arquitetura
+ritualística, outro com uma arquitetura
+inxuta, direto ao ponto, com design bom.
+>> Nossa, olha, olha que maravilha. Eu
+chego a arrepiar, cara. Olha a diferença
+de uma arquitetura emocionada para uma
+arquitetura correta, cara.
+Uma arquitetura emocionadíssima. Lá tem
+application. Aí ele tem lá doo, map,
+service, use case. Aí em domain tem
+agregate, ent, event, service, value,
+object
+infraestrutura, tem persistência,
+repositório, a interface DTO, HTP,
+mappers. Olha isso, cara. do lado é a
+forma que a gente trabalha no rails,
+cara, que tem lá os controllers, os
+entes, que é os nossos models, os
+repositories, que o Rails ele nem usa
+repository, ele já tá tudo dentro do
+próprio model, então já economia mais
+uma camada, economiza uma camada aí a
+service layer, cara, eu gosto de usar
+service layer porque uma coisa que eu
+não que eu não gosto muito do no Ruben
+Rails é de você ter e fat model, que é
+um padrão ridículo de você colocar toda
+a regra de negócio dentro do módel. Isso
+aqui eu detesto. Eu prefiro trabalhar
+com service quando jogando no no
+controller e tal. Isso aqui é lindo,
+cara. Isso é lindo.
+>> Bom, e vê o custo por feature mudar na
+prática. Bom, e para te provar esta
+complexidade, tem um paper de 2026 que é
+o Navigation Paradox, que mediu
+exatamente o custo dessas abstrações pra
+gente. O resultado é exatamente que a
+gente tá falando aqui. Dependence
+injection, dependence inversion criam
+conexões entre arquivos que não existem
+no código fonte, existem no contêiner em
+runtime. E isso é muito difícil pra
+gente entender. O agente lê, não acha a
+ligação e simplesmente não descobre que
+o arquivo é relevante. Por exemplo, em
+tarefas onde a dependência tá escondida,
+sim. E o Cloud Code acerta só em torno
+de 76% dos arquivos necessários. Tu
+perde um arquivo em cada quatro arquivos
+críticos silenciosamente. E piora,
+múltiplas pastas no estilo domain,
+application, infrastructure,
+presentation fazem a gente abrir 7, 10,
+13 arquivos para uma feature que em
+vertical slice seria um só. Cada arquivo
+é token, é latência, é atenção diluída.
+E o detalhe mais importante do paper,
+mesmo quando tu dá uma ferramenta pra
+gente navegar essas dependências, ele
+ignora 58% das vezes. Ele aplica uma
+heurística racional, glob e read já me
+dão 80%. Não vale a pena eu tentar usar
+um MCP, algo do tipo. Tá, mas se custa
+tanto assim e não é bom para IA, porque
+a própria IA segue sugerindo arquitetura
+complexa quando pede? A resposta aqui é
+bem interessante. O áudio,
+>> ela foi treinada com dados de pessoas
+emocionadas. O Adios Money do Google,
+que é uma das vozes mais respeitadas
+sobre ela no desenvolvimento de software
+hoje, documentou um fenômeno que ele
+chama de abstraction bloat, ou seja, o
+agente de solto, sem supervisão, escreve
+1000 linhas onde 100 bastariam. Ele cria
+hierarquia de classes, por exemplo, onde
+uma função resolveria. E o motivo não é
+bug, é treinamento. As Llão são
+treinadas com todo o conhecimento da
+internet e os dados do treinamento da
+Llão super representados por blogs sobre
+padrões complexos. Ninguém escreve um
+artigo dizendo: "Fiz um crude com três
+arquivos e está funcionando há 5 anos".
+As pessoas escrevem sobre secure ass,
+eventouring, exagonal architecture, saga
+pattern in um to list. E isso é o que
+treina a IA. Quando pergunta pra IA como
+estruturar esse serviço, ela responde
+com a média ponderada da internet de
+tech. E a média ponderada da internet de
+Tech é enviezada pro complexo. E
+>> [ __ ] [ __ ] Faz sentido, faz
+sentido.
+>> E se tu pedir para ela ainda mais faz
+uma arquitetura boa? Aí ela vai pensar,
+pô, o bom é esses blog posts aqui e vai
+te sugerir, não tem a evolução do ponto
+A, o ponto B, é sempre o final. E tem
+também um artigo muito bom que eu vou
+deixar aqui do super productivity, que
+ele cunhou um termo perfeito para isso,
+abstraction illusion. A IA torna padrões
+sofisticados, acessíveis, sem torná-los
+apropriados. Pensa o seguinte, antes
+implementar event sourcing, exigia ler
+um livro, estudar exemplo, construir
+incrementalmente. Esse processo filtrava
+naturalmente os times que não precisavam
+daquilo. Hoje dois prompts e bum, tá lá
+para um sistema que nunca vai precisar,
+mas tu pagou por isso e tu vai seguir
+pagando. Agora tem uma coisa importante
+para dizer, a IA não é burra. Se dá um
+bom prompt, se tu questiona, se tu pede
+alternativas mais simples e tu explica
+para ela qual que é a tua meta, ela
+entrega. O problema é que a maioria dos
+deves não faz isso. Pede uma vez, aceita
+a primeira resposta, ganha um clean
+architecture full como presente e sai
+feliz. Implementa clean architect. E
+isso conecta com um fundamento que já
+existia muito antes da IA, que é o
+Yagini. E a guine é you are not gonna
+need it. A gente sabia isso desde 99,
+quando o Kent Beck, escritor do TDD, do
+Extreme Programming, escreveu isso no
+Extreme Programm e a gente continua
+ignorando. E a Guine sempre foi sobre o
+custo da manutenção, sobre a
+complexidade acidental, sobre o código
+que resolve o problema imaginário
+enquanto o problema real fica esperando.
+A Iá não criou esse problema, ela
+escalou ele, porque agora tu consegue
+gerar abstração preventiva em minutos,
+não em dias. E o custo só aparece
+depois. E a próxima parte é onde a coisa
+fica interessante, porque tem algo que a
+IA não matou e pode ter ficado mais
+importante do que nunca. Costumo
+perguntar hoje o que da escola do
+Ancobov do Eric Evans continua
+extremamente vivo que as pessoas
+deveriam saber. Não é o DDD tático, é o
+DDD estratégico. Bounded context,
+linguagem bíqua, separação por domínio
+de negócio. Isso ficou ainda mais
+importante, não menos. E eu vou te
+explicar porquê. Quando tu pede para ir
+a implementar uma feature nova no
+monolito bagunçado, ela tem que ler tudo
+e interpretar. Carrega contexto demais,
+mistura conceitos de building com
+conceitos de autenticação, inventa
+relação entre coisas que nunca deveriam
+conversar. E isso não é limitação só da
+IA, é limitação de qualquer sistema com
+input mal definido. Agora, quando o
+código tá separado em contextos
+delimitados claros, tu aponta ou a
+>> eu acho, cara, eu eu tenho a teoria do
+conspir, a gente vai voltar pro grande
+Hback, cara. Já pensou, mano, que a
+gente começar, por exemplo, porque a
+gente teve, começou assim, a gente
+nasceu, nós somos da velha guarda,
+escrevendo o código tudo no [ __ ]
+Código tudo no [ __ ] Aí chegamos num
+determinado momento, falou assim:
+"Caralho, mano, esse código tá uma
+merda, cara. A gente não consegue dar
+mais manutenção nesse código". Aí a
+galera foi, pô, começou a pegar
+literatura, aí nasceu lá o Clean Code,
+depois o Clean. Todo mundo falou assim:
+"Porra, vamos quebrar em camada que vai
+resolver esse esse problema". Só que
+esse esse problema, cara, porque, por
+exemplo, o problema do Clean Texture que
+ele resolve é você testar, é, você
+consegue testar aquele aquele
+componentezinho ali, você consegue
+testar bonitinho aquele serves sem
+depender de nada. Isso aí é perfeito.
+Você não precisa fazer mais outros
+testes e tal, é muito mais simples. A
+outra coisa de você conseguir
+desacoplar,
+por exemplo, você conseguir, por
+exemplo, ah, eu quero desacoplar isso
+aqui sem eu quebrar nada no sistema,
+você consegue desacoplar tranquilo. Só
+que com IA, cara, mano, você não tem
+tanta dificuldade mais para fazer isso,
+tá ligado?
+conhece você faz muito rápido. Então, já
+pensou a gente voltar pro padrão de ser
+do PHP de antigamente ser tudo dentro da
+mesma pasta, HTML, CS, JavaScript,
+porque quanto menos contexto, quanto
+menos coisas quebradas, melhor para ir a
+entender, mano. Isso aí seria um
+fenômeno absurdo, cara. Aí seria, [ __ ]
+o grande hback raiz da raiz, mano. Isso
+seria absurdo. Eu acho que a gente não
+tá longe disso, não, tá? Não estamos
+longe disso. A gente complicou agora. A
+gente percebeu que complicou demais,
+mano. Vamos descomplicar essa [ __ ] Só
+que a galera que, [ __ ] ama
+complicação. Nossa, tem a galera falando
+aí do Nest, cara. Mano, sem sacanagem
+nenhuma, eu trabalhei num projeto, cara,
+que os caras falam assim: "Mano, nós
+vamos fazer o back end nest." Ele era um
+outro time. Eu tava num time que o nosso
+backend era em Ruby e o outro squad lá,
+os caras tava usando Nest. Aí eu falei
+assim: "Porra, maravilhoso". Porque o
+Nest, cara, mano, ele é o Rails do
+JavaScript. Eles têm controles, tem
+providers, módulo, middleware, é muito
+bom, muito gostosinho de trabalhar, tá
+ligado? Só que aí, cara, a pessoa que
+tava liderando o time nessa outra squad,
+ele tinha feito um curso muito famoso
+aqui no Brasil. Um curso muito famoso
+aqui no Brasil. E esse curso ele
+simplesmente, o professor ele falava o
+seguinte, falou assim: "Cara, eu não
+gosto a forma que o Nest trabalha e eu
+acho que a gente deveria desacoplar um
+pouco de coisa aqui". E o cara
+simplesmente pegou essa coisa que é
+maravilhosa no Nest e conseguiu criar
+uma complicação, mano, absurda no Nest.
+Então, todo aquele prazer do Nest, mano,
+ele não usava mais. O que ele usava do
+Nest mesmo era só esquema de rota do
+Nest. O resto nada, cara. Eu falei:
+"Pelo amor de Deus, cara". Eu falei
+assim: "Caralho, cara". Falei assim:
+"Mano, a intenção nossa é simplificar o
+código, a gente simplificar nossa code
+base. A nossa code base ser fácil da
+manutenção.
+E o cara vai lá, toma a decisão do Net."
+Eu falei assim: "Beleza, estamos
+alinhado, estamos alinhado, vamos
+simplificar code base, o cara vai meter
+Net lá, vai ficar lindo no backend."
+Aí o cara vai lá e complica a [ __ ]
+toda, tudo que a gente, mano, era tão
+esquisito, cara, que eu falei assim:
+"Cara, fizeram a lavar cerebral nesse
+cara e você não consegue tirar da cabeça
+dele." Teve uma outra parada lá que a
+gente precisava, mano, rodar uma parada
+que era um um crome job interno.
+Basicamente a gente ia ter um worker lá
+que ia chamar lá e tal, acionava um
+evento, ele disparava. Era um serviço
+interno que ele fazia, mano, pouca
+coisa, pouca coisa, mano. Sem sacanagem
+nenhuma. A gente resolvia ele com três
+arquivos. Com três arquivos a gente
+resolvia ele e ficava bonitinho e
+funcionava. Maluco, o cara meteu clean
+arr dentro dessa [ __ ] de um serviço que
+só fazia uma ação. Ele tinha mais camada
+do que a regra de negócio. A regra de
+negócio, mano, se ele era três, quatro
+linha. Ele tinha tanta camada em volta
+que eu falei assim: "Caralho,
+e vai convencer que o cara tava errado.
+Vai convencer que tava errado." Por quê?
+Porque ele tinha um Deus que era o
+professor do curso e ele falou: "Não,
+não, cara. O Deus falou comigo que a
+gente precisa ter clean. Se não tiver
+clean, mano, tá errado." Falei: "Então
+tá bom, cara. Então, então tá bom. Deixa
+eu continuar no meu rub aqui. Seja feliz
+aí". [ __ ] mano. Ó, sem sacanagem
+nenhuma, cara. Que projeto do inferno,
+cara. Que acho que foi aí que eu tomei
+ranço de canhark, mano. Foi. Acho que
+foi por conta desse projeto que eu tomei
+ranço que eu falou: "Meu Deus, para quê?
+Para quê?"
+Aí hoje em dia eu olho para trás, falo
+assim: "Mano, para quê? Não mudei de
+opinião? Falei: "Para quê? Você tem
+muitos anos." Falei: "Mano, para quê?
+Não faz sentido. [música]
+[música]
